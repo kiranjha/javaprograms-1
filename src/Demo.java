@@ -7,7 +7,7 @@ public class Demo {
 		
 		Student s = new Student(1, "Apoorv");
 		s.print();
-		Student s2 = new Student(2, "Himanshu");
+		Student s2 = new Student(2, "Vineet");
 		s2.print();
 		Student s3 = new Student(3, "Prakhar");
 		s3.print();
